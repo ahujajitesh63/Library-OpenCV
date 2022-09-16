@@ -29,8 +29,7 @@ A step by step guide that will tell you how to get the jupyter notebook up and r
 ```
 $ git clone https://github.com/ahujajitesh63/Library-OpenCV.git
 $ cd Library-Machine-Learning
-$ cd 
-Outline Objects in a video
+$ cd Outline Objects in a video
 $ pip install notebook
 $ pip install -r requirements.txt
 $ python -m notebook
