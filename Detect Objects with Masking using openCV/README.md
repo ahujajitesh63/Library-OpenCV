@@ -8,7 +8,7 @@ The OpenCV package provides innovative ways to carry out a range of computer-vis
 
 This project demonstrates how to detect objects in a picture using the masking process in openCV using following steps: 
 * It begins with grabbing a picture to work with. In this scenario, it grabs an image of a stop sign and an Owl. 
-* Then it obtains a reference to the picture, or a mask that will be matched in an image. 
+* Then it obtains a reference to the picture, or a mask using openCV thresholding that will be matched in an image. 
 * After matching the mask inside an image, the background is separated from the foreground using a basic isolation approach in openCV. 
 * An owl image has a lot more colors that are similar to its background. 
 * For this problem, the project demonstrates how altering the saturation of a picture may aid in distinguishing recognized subject from background.
